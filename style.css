@@ -1,0 +1,17 @@
+.bg-green {
+    background-color:rgb(50, 59, 16);
+}
+.background-body {
+    background-color:rgb(1, 0, 15);
+} 
+.left-box {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-top-left-radius: 4%;
+    float: left;
+}
+.right-box {
+    margin-top: 15px;
+    margin-bottom: 15px;
+float: right;
+}
